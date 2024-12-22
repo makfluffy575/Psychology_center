@@ -7,4 +7,6 @@ function menuHidden () {
 }
 
 document.querySelector('.header__burger').onclick = menuHidden;
+document.querySelector('.header__menu-list').onclick = menuHidden;
+
 
