@@ -32,6 +32,21 @@
     color: variables.$text-color;
     line-height: 1rem;
   }
+  .edujob__wrap-btn{
+    display: flex;
+    justify-content: center;
+  }
+  .edujob__btn {
+    margin-top: 2rem;
+    height: 1.75rem; /*27px*/
+    width: 7.625rem; /*122px*/
+    box-sizing: border-box;
+    border: 1px solid rgb(215, 215, 215);
+    border-radius: 180px;
+    background: variables.$bg-darkblue;
+    font-size: variables.$fs-btn;
+    color: variables.$text-color-btn;
+  }
 
   @media screen and (max-width:570px) {
     padding: 0 1.5rem 0 1.5rem;

@@ -875,6 +875,21 @@ header .header__burger-checkbox, header .header__burger, header .header__menu, h
   color: rgb(140, 140, 140);
   line-height: 1rem;
 }
+.edujob .edujob__wrap-btn {
+  display: flex;
+  justify-content: center;
+}
+.edujob .edujob__btn {
+  margin-top: 2rem;
+  height: 1.75rem; /*27px*/
+  width: 7.625rem; /*122px*/
+  box-sizing: border-box;
+  border: 1px solid rgb(215, 215, 215);
+  border-radius: 180px;
+  background: rgb(0, 22, 137);
+  font-size: 0.625rem;
+  color: rgb(255, 255, 255);
+}
 @media screen and (max-width: 570px) {
   .edujob {
     padding: 0 1.5rem 0 1.5rem;

@@ -175,6 +175,10 @@ header {
       transform: translateX(0);
     }
   }
+
+  @media screen and (max-width: 770px) {
+
+  } 
   @media screen and (max-width: 570px) {
     
     .header__container {
