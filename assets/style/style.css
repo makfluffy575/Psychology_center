@@ -858,7 +858,12 @@ header .header__burger-checkbox, header .header__burger, header .header__menu, h
   gap: 1rem;
 }
 .staff .staff__wrap-modal-img {
+  max-width: 6.25rem; /*100px*/
+  max-height: 6.25rem; /*100px*/
+}
+.staff .staff__wrap-modal-img img {
   width: 6.25rem; /*100px*/
+  height: 6.25rem; /*100px*/
 }
 .staff .staff__list-item {
   list-style: none;
@@ -1040,6 +1045,7 @@ header .header__burger-checkbox, header .header__burger, header .header__menu, h
   margin: 2.7rem 5rem 0 5rem;
 }
 .partners .partners__wrap-logo {
+  height: 100%;
   margin: 0 0.5em;
   box-sizing: border-box;
   border: none;
@@ -1057,7 +1063,6 @@ header .header__burger-checkbox, header .header__burger, header .header__menu, h
 }
 .partners .partners__link {
   max-width: 90%;
-  height: min-content;
 }
 @media screen and (max-width: 970px) {
   .partners .partners__wrap {
