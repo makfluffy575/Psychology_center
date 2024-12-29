@@ -39,9 +39,9 @@
   <li><a href="https://github.com/saitovaan35">Anastasia Saitova</a> (Footer)</li>
 </ul>
 <h2 align="center">Sources</h2>
-https://edu.unionsee.ru
-https://rakhimkulova-expert.com/main
-
+<ul>
+  <li><a href="https://edu.unionsee.ru"></a></li>
+  <li><a href="https://rakhimkulova-expert.com/main"></a></li>
 <h2 align="center">Аннотация на русском языке</h2>
 <p>В рамках данного проекта разработан <a href="https://www.psychology.unionsee.ru/">сайт Психологического центра</a> Союза экспертов в сфере подготовки кадров и их интеграции в науку, образование и реальный сектор экономики (далее - организация). Дизайн и подход к разработке сайта отвечают функциональным требованиям, а также интуитивно понятны и удобны для посетителей. Сайт также адаптирован для просмотра с мобильных устройств.</p>
 <h3>Структура проекта</h3>
