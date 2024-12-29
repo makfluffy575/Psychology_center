@@ -10,19 +10,28 @@
   <li>Footer сontains the company logo, main sections and the documents links (privacy policy, terms os service).</li>
 </ul>
 <h2 align="center">Languages and tools</h2>
-<ul> 
-  <li><img src="./assets/icons/readme_icons/sass.svg" alt="icon scss" height="25" />&ensp;SCSS</li>
-  <li><img src="./assets/icons/readme_icons/html.svg" alt="icon html" height="30"/>&ensp;HTML</li>
-  <li><img src="./assets/icons/readme_icons/bootstrap.svg" alt="icon html" height="30"/>&ensp;Bootstrap</li>
-  <li><img src="./assets/icons/readme_icons/js.svg" alt="icon html" height="30"/>&ensp;JS</li>
-  <li><img src="./assets/icons/readme_icons/bem.svg" alt="icon html" height="30"/>&ensp;BEM</li>
+<table>
+    <tr>
+        <th><img src="./assets/icons/readme_icons/sass.svg" alt="icon scss" height="25" /></th>
+        <th><img src="./assets/icons/readme_icons/html.svg" alt="icon html" height="30"/></th>
+        <th><img src="./assets/icons/readme_icons/js.svg" alt="icon html" height="30"/></th>
+        <th><img src="./assets/icons/readme_icons/bem.svg" alt="icon html" height="30"/></th>
+        <th><img src="./assets/icons/readme_icons/bootstrap.svg" alt="icon html" height="30"/></th>
+    </tr>
+    <tr>
+        <td>SCSS</td>
+        <td>HTML</td>
+        <td>JS</td>
+        <td>BEM</td>
+        <td>BOOTSTRAP</td>
+    </tr>
+</table>
 
 <h2 align="center">Project team</h2>
 <ul> 
   <li>&#9734; Team leader <a href="https://github.com/Rasalila"> Rasalila Krasnovskaya</a> (Header + Homepage)</li>
   <li>&#9734; Team leader <a href="https://github.com/makfluffy575">Maria Shatskaya</a> (Section "Staff", web page test + AWD)</li>  
   <li><a href="https://github.com/Vitalia-art">Vitalia</a> (Sections "About company" + "Activities")</li>
-  
   <li><a href="https://github.com/Alia-s-s">Alexandra</a> (Section "Education and job", design and web page layout)</li>
   <li><a href="https://github.com/DianaSlastenova">Diana Slastenova</a> (Section "Reviews")</li>
   <li><a href="https://github.com/boyarovaolga">Olga Boyarova</a> (Section "Partners")</li>
@@ -30,6 +39,8 @@
   <li><a href="https://github.com/saitovaan35">Anastasia Saitova</a> (Footer)</li>
 </ul>
 <h2 align="center">Sources</h2>
+https://edu.unionsee.ru
+https://rakhimkulova-expert.com/main
 
 <h2 align="center">Аннотация на русском языке</h2>
 <p>В рамках данного проекта разработан <a href="https://www.psychology.unionsee.ru/">сайт Психологического центра</a> Союза экспертов в сфере подготовки кадров и их интеграции в науку, образование и реальный сектор экономики (далее - организация). Дизайн и подход к разработке сайта отвечают функциональным требованиям, а также интуитивно понятны и удобны для посетителей. Сайт также адаптирован для просмотра с мобильных устройств.</p>
